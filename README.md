@@ -16,4 +16,4 @@ Zorg ervoor dat jouw pagina er precies zo uit komt te zien als de pagina in het 
 Psssst: ben je benieuwd hoe je vierkantjes maakt van bulletpoints? Bekijk dan [dit artikel](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style) op MDN Web Docs eens.
 
 ## Antwoorden
-Dit is een EdHub opdracht om je te helpen oefenen met de stof. Ben je benieuwd of jouw implementatie klopt? De antwoorden staan in deze zelfde repository, op de branch [uitwerkingen]().
+Dit is een EdHub opdracht om je te helpen oefenen met de stof. Ben je benieuwd of jouw implementatie klopt? De antwoorden staan in deze zelfde repository, op de branch [uitwerkingen](https://github.com/hogeschoolnovi/frontend-css-frambozen-artikel/blob/uitwerkingen/styles.css).
